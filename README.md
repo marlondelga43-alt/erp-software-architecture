@@ -16,5 +16,5 @@ diagramas UML y la documentación siguiendo la plantilla **arc42**.
 
 ## Tablero de Gestión
 Las épicas, historias de usuario, criterios de aceptación y priorización
-MoSCoW se gestionan en: **[enlace a Jira/Notion]**
+MoSCoW se gestionan en: **https://marlondelga43.atlassian.net/jira/software/projects/SCRUM/boards/1?filter=&groupBy=none&atlOrigin=eyJpIjoiODUxZWRhOTVlNWQ3NGY4MGJlZTdmZWEyMmYwOTBmMTgiLCJwIjoiaiJ9**
 
